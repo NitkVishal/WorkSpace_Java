@@ -1,0 +1,74 @@
+Input Configuration: ......
+  Network	1
+  Asynchronous Flow
+  Number of IP	192
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	6
+  Number of Flit/Buffer	4
+  Number of Cycles	10000
+  Number of Warm_Up_Cycles	1000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.1639890625
+  Throughput[Flits leaving Switch]	1.180996875
+  Avg Packet Delay	106.66985271074898
+  Link Utilization	0.1968624237804878
+  Buffer(Node & Switch) Utilization	0.028685724720528456
+  Avg Packet Injection Rate	1.2818
+  Avg Packet Not Produced	0.0
+  Input Buffer(Node) Utilization	0.006832877604166667
+  Input Buffer(Switch) Utilization	0.024500859375
+  Output Buffer(Node) Utilization	0.056862044270833335
+  Output Buffer(Switch) Utilization	0.031786566220238094
+  Avg Hop Count	8.186148542776559
+  Avg Packet Sent/Run	12818.0
+  Avg Packet Received/Run	12764.0
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  Network	1
+  Asynchronous Flow
+  Number of IP	192
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	6
+  Number of Flit/Buffer	4
+  Number of Cycles	10000
+  Number of Warm_Up_Cycles	1000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.1652765625
+  Throughput[Flits leaving Switch]	1.1933697916666666
+  Avg Packet Delay	109.03899029126214
+  Link Utilization	0.1988171493902439
+  Buffer(Node & Switch) Utilization	0.02887749618902439
+  Avg Packet Injection Rate	1.286
+  Avg Packet Not Produced	0.0
+  Input Buffer(Node) Utilization	0.0068865234375
+  Input Buffer(Switch) Utilization	0.024767302827380953
+  Output Buffer(Node) Utilization	0.056422699652777776
+  Output Buffer(Switch) Utilization	0.03203553571428571
+  Avg Hop Count	8.215378640776699
+  Avg Packet Sent/Run	12860.0
+  Avg Packet Received/Run	12875.0
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+

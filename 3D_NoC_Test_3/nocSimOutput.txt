@@ -1,0 +1,185 @@
+Input Configuration: ......
+  Network	1
+  Asynchronous Flow
+  Number of IP	64
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of Flit/Buffer	2
+  Number of Cycles	100000
+  Number of Warm_Up_Cycles	10000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.1635578125
+  Throughput[Flits leaving Switch]	1.0392278125
+  Avg Packet Delay	105.25604068527502
+  Link Utilization	0.2186894034090909
+  Buffer(Node & Switch) Utilization	0.07005418501420455
+  Avg Packet Injection Rate	0.42671
+  Avg Packet Not Produced	0.0
+  Input Buffer(Node) Utilization	0.0204447265625
+  Input Buffer(Switch) Utilization	0.0686193359375
+  Output Buffer(Node) Utilization	0.09806322265625
+  Output Buffer(Switch) Utilization	0.07628912760416667
+  Avg Hop Count	7.353746279500339
+  Avg Packet Sent/Run	42671.0
+  Avg Packet Received/Run	42669.0
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  Network	1
+  Asynchronous Flow
+  Number of IP	64
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of Flit/Buffer	2
+  Number of Cycles	100000
+  Number of Warm_Up_Cycles	10000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.16174375
+  Throughput[Flits leaving Switch]	1.026836875
+  Avg Packet Delay	100.65264640300434
+  Link Utilization	0.2161068465909091
+  Buffer(Node & Switch) Utilization	0.06514773259943182
+  Avg Packet Injection Rate	0.42608
+  Avg Packet Not Produced	0.0
+  Input Buffer(Node) Utilization	0.02021796875
+  Input Buffer(Switch) Utilization	0.06309596354166666
+  Output Buffer(Node) Utilization	0.0939041796875
+  Output Buffer(Switch) Utilization	0.07079357204861111
+  Avg Hop Count	7.329163243750734
+  Avg Packet Sent/Run	42611.0
+  Avg Packet Received/Run	42605.0
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  Network	1
+  Asynchronous Flow
+  Number of IP	64
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of Flit/Buffer	2
+  Number of Cycles	100000
+  Number of Warm_Up_Cycles	10000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.16371234375
+  Throughput[Flits leaving Switch]	1.03906359375
+  Avg Packet Delay	112.4177936447891
+  Link Utilization	0.21869457386363636
+  Buffer(Node & Switch) Utilization	0.0728352237215909
+  Avg Packet Injection Rate	0.42325
+  Avg Packet Not Produced	0.0
+  Input Buffer(Node) Utilization	0.02046404296875
+  Input Buffer(Switch) Utilization	0.07102539930555556
+  Output Buffer(Node) Utilization	0.10659306640625
+  Output Buffer(Switch) Utilization	0.07878134548611111
+  Avg Hop Count	7.3346652165689425
+  Avg Packet Sent/Run	42325.0
+  Avg Packet Received/Run	42296.0
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  Network	1
+  Asynchronous Flow
+  Number of IP	64
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	4
+  Number of Flit/Buffer	2
+  Number of Cycles	100000
+  Number of Warm_Up_Cycles	10000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.1643471875
+  Throughput[Flits leaving Switch]	1.043548125
+  Avg Packet Delay	104.90629236594829
+  Link Utilization	0.21962258522727274
+  Buffer(Node & Switch) Utilization	0.06838748401988637
+  Avg Packet Injection Rate	0.42806
+  Avg Packet Not Produced	0.0
+  Input Buffer(Node) Utilization	0.0205433984375
+  Input Buffer(Switch) Utilization	0.06640428819444444
+  Output Buffer(Node) Utilization	0.098803359375
+  Output Buffer(Switch) Utilization	0.07424361545138888
+  Avg Hop Count	7.3300920948062265
+  Avg Packet Sent/Run	42806.0
+  Avg Packet Received/Run	42782.0
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+
+Input Configuration: ......
+  Network	1
+  Asynchronous Flow
+  Number of IP	64
+  Fixed Message Length	false
+  Avg Msg Length(bytes)	200
+  Flit Length(bits)	64
+  Avg Msg Production Rate(cycle/msg)	150
+  Number of Virtual Channel/Link	6
+  Number of Flit/Buffer	2
+  Number of Cycles	100000
+  Number of Warm_Up_Cycles	10000
+  Traffic Type	0
+ .....................
+Performance Measurements.......
+  Throughput[Net]0.16688078125
+  Throughput[Flits leaving Switch]	1.0580584375
+  Avg Packet Delay	107.43602513381428
+  Link Utilization	0.22271926136363637
+  Buffer(Node & Switch) Utilization	0.04701491240530303
+  Avg Packet Injection Rate	0.42981
+  Avg Packet Not Produced	0.0
+  Input Buffer(Node) Utilization	0.013906731770833333
+  Input Buffer(Switch) Utilization	0.04495666087962963
+  Output Buffer(Node) Utilization	0.06947608072916667
+  Output Buffer(Switch) Utilization	0.05143916666666667
+  Avg Hop Count	7.32355131487084
+  Avg Packet Sent/Run	42981.0
+  Avg Packet Received/Run	42970.0
+
+
+
+  Total LOCA_IN = 0
+  Total LOCA_OUT = 0
+  Total LOCA_IN Percentage = NaN
+
+

@@ -1,0 +1,1 @@
+print ("Jane tu ya jane na");
